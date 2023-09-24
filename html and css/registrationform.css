@@ -1,0 +1,243 @@
+.start
+{
+    border: solid black;
+    border-width: 0px;
+    width:700px;
+    padding: 10px;
+
+}
+.email{
+
+}
+.in
+{
+    border: 0px;
+    text-decoration: underline;
+}
+
+.date
+{
+    width: 700px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 8px
+}
+.blood
+{
+    width: 700px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 8px
+}
+.name
+{
+    width: 700px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 8px
+}
+.aadhar
+{
+    width: 700px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 8px 
+}
+.email{
+    width: 700px;
+    padding: 20px;
+    
+    border-radius: 10px;
+    margin-top: 8px 
+}
+.jvd
+{
+    width: 700px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 8px;
+    background-color: white;
+
+}
+.cube
+{
+    width: 200px;
+    background-color:transparent;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+
+.cube:hover{
+    border: none;
+    border-bottom: 1px solid purple;
+}
+.ravi
+{
+    width: 700px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 8px  
+}
+.Mobile
+{
+   
+    width: 700px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 8px  
+}
+.sem
+{
+    text-align:center;
+    width: 700px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 8px;
+    
+}
+.hos
+{
+    width: 700px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 8px;
+    background-color: white;
+}
+.blood
+{
+    width: 700px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 8px;
+    background-color: white;
+    
+}
+
+.rad
+{
+    width: 700px;
+    padding: 20px;
+    text-align: left;
+    border-radius: 10px;
+    margin-top: 8px;
+    
+}
+.adjust
+{
+    width: 100px;
+}
+.regd
+{
+   margin-top: 7px;
+    width: 700px;
+    padding: 20px;
+    text-align: left; 
+    border-radius: 10px;
+}
+
+.year
+{
+    margin-top: 7px;
+    width: 700px;
+    padding: 20px;
+    text-align: left; 
+    border-radius: 10px;
+}
+.mail{
+    margin-top: 7px;
+    text-align:center;
+    width: 700px;
+    padding: 20px;
+    text-align: left; 
+    border-radius: 10px;
+}
+
+.ch
+{
+    width: 15px;
+    height: 15px;
+}
+.para
+{
+    margin-top: 0px;
+}
+body
+{
+    background-color:#DAFEFB;
+     
+    position: relative;
+
+  
+
+}
+.main{
+    position: absolute;
+    left: 27%;
+     
+}
+.email
+{
+    border: solid black;
+    border-width: 0px;
+    width:700px;
+    padding: 10px;
+    margin: ;
+}
+.frt
+{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.frt p{
+    padding-right: 10px;
+    color: rgb(82, 82, 82);
+
+}
+.yt
+{
+    width: 150px;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 5px;
+}
+.red{
+    margin-top: 7px;
+    text-align:center;
+    width: 700px;
+    padding: 20px;
+    text-align: left; 
+    border-radius: 10px;
+}
+.footer{
+    color: grey;
+    font-size: 14px;
+    margin: 20px;
+}
+.footer1{
+    text-align: center;
+    color: grey;
+}
+.s1{
+    width: 200px;
+    height: 50px;
+    border-color: rgb(185, 184, 184);
+    border-radius: 5px;
+    text-transform: capitalize;
+    padding: 10px;
+}
+select:hover{
+    border-color: black;
+}
+span{
+    color: red;
+}
